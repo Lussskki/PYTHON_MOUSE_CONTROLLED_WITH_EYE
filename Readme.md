@@ -1,8 +1,8 @@
-#mouse_controlled_with mouse
+# mouse_controlled_with mouse
 
-#Using
+# Using
 1.cv2
 2.mediapipe
 3.pyautogui
 
-practise in python-vision  
+# practise in python-vision  
